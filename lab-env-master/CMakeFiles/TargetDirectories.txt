@@ -1,0 +1,42 @@
+/home/lazyplayer74/Desktop/lab-env-master/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/CMakeFiles/imgui.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/CMakeFiles/nanovg.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/glew/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/glew/CMakeFiles/glew.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/glew/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/glfw/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/glfw/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/glfw/src/CMakeFiles/glfw.dir
+/home/lazyplayer74/Desktop/lab-env-master/exts/glfw/src/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/engine/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/engine/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/engine/core/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/engine/core/CMakeFiles/core.dir
+/home/lazyplayer74/Desktop/lab-env-master/engine/core/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/engine/render/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/engine/render/CMakeFiles/render.dir
+/home/lazyplayer74/Desktop/lab-env-master/engine/render/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/ImGuiExample/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/ImGuiExample/CMakeFiles/ImGuiExample.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/ImGuiExample/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 2/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 2/CMakeFiles/labb2.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 2/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 3/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 3/CMakeFiles/labb3.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 3/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 4/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 4/CMakeFiles/labb4.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 4/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 5/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 5/CMakeFiles/labb5.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/Labb 5/CMakeFiles/edit_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/example/CMakeFiles/rebuild_cache.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/example/CMakeFiles/example.dir
+/home/lazyplayer74/Desktop/lab-env-master/projects/example/CMakeFiles/edit_cache.dir
